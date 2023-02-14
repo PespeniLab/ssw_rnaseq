@@ -8,7 +8,7 @@ Each library was uniquely barcoded and all libraries were sequenced across 4 Ill
 
 ## Data availability
 
-Raw sequence data is available at NCBI BioProject TDB.
+Sequence data reported in this article have been deposited in the National Center for Biotechnology Information (NCBI) (BioProject no. PRJNA934423).
 
 All other summaries etc. are included as supplemental files with the manuscript.
 
